@@ -62,9 +62,7 @@ const {courseInstructor: instructor} = course //object re-structure
 //console.log(courseInstructor);
 console.log(instructor);
 
-const navbar = () => {
-    
-}
+
 
 
 
