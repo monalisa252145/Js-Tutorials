@@ -10,10 +10,23 @@ while (index <= 10 ) {
 
 
 let myArray = ['flash', "batman", "superman"]
+
 let arr = 0
-while (arr < MimeTypeArray.length) {
+while (arr < myArray.length) {
     console.log(`value of ${myArray[arr]}`);
     arr = arr + 1
     
     
 }
+
+
+// d0-while
+
+
+let score = 1
+
+do {
+    console.log(`score is ${score}`);
+    score ++
+    
+} while (score <= 10);
